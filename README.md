@@ -1,11 +1,8 @@
-# Basic NFT Marketplace end to end
-
-This code is for the Tutorial [Build your own NFT Marketplace from Scratch](https://docs.alchemy.com/alchemy/) built by [alchemy.com](https://alchemy.com)
+# Blockchain-based Marketplace for Unique Digital Assets
 
 To set up the repository and run the marketplace locally, run the below
 ```bash
-git clone https://github.com/OMGWINNING/NFT-Marketplace-Tutorial
-cd NFT-Marketplace-Tutorial
+git clone https://github.com/saarthv/nft-marketplace
 npm install
 npm start
 ```
